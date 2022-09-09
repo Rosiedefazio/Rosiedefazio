@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosiedefazio
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SAS
+- 👀 I’m interested in Data Analytics or Data Science
+- 🌱 I’m currently learning SAS, Pandas for Python, Machiene Learing, Wave Simulation and Game Theory
 - 💞️ I’m looking to collaborate on Life Science Data
 - 📫 How to reach me @dicsofloweers on discord
 
