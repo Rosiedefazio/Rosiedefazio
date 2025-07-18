@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosiedefazio
-- 👀 I’m interested in Machine Learning, Dynamical Systems and Pure Math
-- 🌱 I’m currently learning Real Analysis
+- 👀 I’m interested in Machine Learning, Dynamical Systems
+- 🌱 I’m currently learning Non-Euclidean Geometry
 - 💞️ I’m looking to collaborate on Life Science Data
 - 📫 How to reach me @dicsofloweers on discord
 
